@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native and Laravel**
 
-- ⚡ Fun fact **Sports, Playing Game, Watching Anime or Movie And Gardening**
+- ⚡ Fun fact **Sports, Watching Anime or Movie, Gardening and Playing Game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
